@@ -1,0 +1,14 @@
+#partners{
+    padding: 20px 0;
+    box-shadow: 0 0 1px 0 rgba(0,5,1,0.5);
+}
+#img_partners{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#img_partners img{
+    width: 10%;
+    height: 10%;
+    margin: 0 20px;
+}

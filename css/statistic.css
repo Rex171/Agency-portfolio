@@ -1,0 +1,19 @@
+#statistic{
+    padding: 18px 0;
+    box-shadow: 0 1px 10px 0 rgba(0,5,1,0.5)
+}
+#table_static{
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+    padding-bottom: 20px;
+}
+.static{
+    background-color: rgb(49, 49, 49);
+    color: white;
+    border-radius: 10px;
+    padding: 24px;
+}
+.static p{
+    margin: 0 auto;
+}

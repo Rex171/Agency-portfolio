@@ -1,0 +1,30 @@
+#preview{
+    background-color: rgb(241, 240, 240);
+}
+.row_box{
+    display: flex;
+    justify-content: space-evenly;
+
+}
+.preview_box{
+    margin: 0;
+    width: 30%;
+    height: 100%;
+    display: flex;
+}
+.preview_box h4{
+    font-family: "Open Sans";
+    font-weight: 600;
+    font-size: 15px;
+    color: rgb(236, 154, 0);
+}
+.preview_box p{
+    font-family: "Open Sans";
+    font-weight: 400;
+    font-size: 12px;
+}
+.preview_img{
+    margin-right: 15px;
+    width: 6%;
+    height: 5%;
+}

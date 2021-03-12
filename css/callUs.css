@@ -1,0 +1,20 @@
+#call_us{
+    background-color: #005bab;
+    padding: 24px 0;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-flow: column;
+}
+#call_us button{
+    color: white;
+    width: 15%;
+    font-family: "Open Sans";
+    font-weight: 600;
+    font-size: 15px;
+    padding: 15px;
+    margin: 12px 0;
+    background-color: #ff8300;
+    border-color: #ff8300;
+}

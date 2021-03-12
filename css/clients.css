@@ -1,0 +1,28 @@
+#clients{
+    background-color: rgb(241, 240, 240);
+    box-shadow: 0 0 2px 0px rgba(0,0,0,0.5);
+}
+#clients_message{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-evenly;
+}
+.message{
+    width: 30%;
+    display: flex;
+    align-items: center;
+    background: linear-gradient(to bottom, #f5f7e4 0%, #6b6b4d 100%);
+    border-radius: 10px 0px 10px 0px;
+    margin: 20px 0;
+}
+.message img{
+    width: 38px;
+    height: 38px;
+    margin: 0 10px;
+    border-radius: 100%;
+}
+.message p{
+    font-family: 'Open Sans';
+    font-weight: 400;
+    font-size: 12px;
+}

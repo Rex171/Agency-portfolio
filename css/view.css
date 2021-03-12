@@ -1,0 +1,51 @@
+#view{
+    background-color: #ff8300;
+}
+.img_cont img{
+    border-radius: 10px;
+    width: 100%;
+    height: 250px;
+}
+.img_cont{
+    position: relative;
+}
+.star_word{
+    padding-top: 5px;
+    display: flex;
+    position: absolute;
+    justify-content: center;
+    align-items: center;
+}
+.img_cont h3{
+    margin: 0 auto;
+    padding: 0 0 0 6px;
+    font-family: "Open Sans";
+    font-weight: 600;
+    font-size: 16px;
+    color: white;
+}
+.star{
+    margin: 0 auto;
+    padding: 0 0 0 6px;
+    color: gold;
+    font-family: "Open Sans";
+    font-weight: 600;
+    font-size: 11px;
+}
+.lorem_ipsum{
+    position: absolute;
+    bottom: 8px;
+    left: 16px;
+    color: white;
+    font-family: "Open Sans";
+    font-weight: 600;
+    font-size: 12px;
+}
+#img_container{
+    padding-top: 20px;
+}
+.between-img{
+    display: flex;
+    justify-content: space-evenly;
+    padding-bottom: 20px;
+}

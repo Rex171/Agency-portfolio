@@ -1,0 +1,26 @@
+#main_menu{
+    margin: 0 auto;
+    padding: 20px 0 20px 60px;
+    display: flex;
+}
+.col{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 5px 25px;
+    color: rgb(21, 118, 214);
+    font-family: "Open Sans";
+    font-weight: 600;
+    font-size: 14px;
+    border: 1px solid gray;
+}
+.col a{
+    text-decoration: none;
+}
+.col:hover{
+    background-color: rgb(236, 154, 0);
+}
+.col:hover a:link, .col:hover a:visited, .col:hover a:active{
+    color: white;
+}

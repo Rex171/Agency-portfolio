@@ -1,0 +1,29 @@
+#header{
+    box-shadow: 0 0 10px 0 rgba(0,0,0,0.5);
+    width: 100%;
+    position: fixed;
+    background: #fff;
+    z-index: 1000;
+}
+#headConteiner{
+    margin: 0 auto;
+    width: 95%;
+    height: 10%;
+    display: flex;
+    align-content: center;
+    align-items: center;
+}
+#menu_header li{
+    margin: 0 10px 0 10px;
+    font-family: 'Open Sans';
+    font-size: 13px;
+    font-weight: 600;
+    display: inline-block;
+}
+#menu_header li a{
+    text-decoration: none;
+    color: black;
+}
+#menu_header li a:hover{
+    color: orange;
+}
