@@ -1,0 +1,35 @@
+.modal-car{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+#buttonOnPage{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 5px 0px 5px 0px;
+}
+.but-page{
+    margin-left: 10px;
+}
+.auto-block{
+    display: flex;
+    justify-content: center;
+}
+.auto-content{
+    width:35%;
+    display: flex;
+    align-items: center;
+}
+.auto-block button{
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#autoContainer{
+    border: 1px dashed gray;
+    width: 50%;
+    margin: 0 auto;
+}
