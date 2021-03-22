@@ -5,7 +5,7 @@ let arrCar = [
         color: 'Black'
     },
     {
-        name: 'Lada Pivo',
+        name: 'Lada Livo',
         number: '65H579Y',
         color: 'White'
     },
